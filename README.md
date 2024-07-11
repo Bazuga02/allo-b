@@ -11,6 +11,7 @@ This project is a React-based web application designed for meal selection. It in
 - **Dynamic Pricing**: Real-time calculation of total prices based on selected meals.
 - **Responsive Design**: Ensures optimal viewing experience across various devices.
 - **Animation and Notifications**: Utilizes React Lottie for animations and React Hot Toast for user notifications.
+- **Pagination**: For situations with extensive meal lists, pagination seamlessly presents meals in manageable sections, making browsing and selection easier
 
 ## Setup and Test Locally
 
