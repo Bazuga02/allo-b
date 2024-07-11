@@ -1,0 +1,223 @@
+{
+  "labels": [
+    {
+      "id": "pork",
+      "label": "Pork"
+    },
+    {
+      "id": "seafood",
+      "label": "Seafood"
+    },
+    {
+      "id": "kids",
+      "label": "Kids"
+    },
+    {
+      "id": "chicken",
+      "label": "Chicken"
+    },
+    {
+      "id": "beef",
+      "label": "Beef"
+    },
+    {
+      "id": "vegetarian",
+      "label": "Vegetarian"
+    },
+    {
+      "id": "breakfast",
+      "label": "Breakfast"
+    }
+  ],
+  "meals": [
+    {
+      "id": "meal1",
+      "title": "3 course Chicken",
+      "starter": "Caesar Salad",
+      "desert": "Cake",
+      "price": 9.99,
+      "labels": ["chicken", "breakfast"],
+      "img": "https://www.shutterstock.com/image-photo/chicken-salad-caesar-grilled-croutons-600nw-1666973557.jpg",
+      "description": "A delightful 3 course chicken meal featuring a Caesar salad starter and a cake dessert.",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Wine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal2",
+      "title": "3 course Beef",
+      "starter": "French Onion Soup",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": ["beef"],
+      "img": "https://img.freepik.com/free-photo/traditional-french-onion-soup-isolated-white-background_123827-19732.jpg",
+      "description": "A rich and savory 3 course beef meal with a French onion soup starter and a cake dessert.",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Wine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal3",
+      "title": "3 course Veg",
+      "starter": "Stuffed Mushrooms",
+      "desert": "Cake",
+      "price": 79.99,
+      "labels": ["vegetarian"],
+      "img": "https://img.freepik.com/premium-photo/two-stuffed-mushrooms-with-mushroom-white-background_162695-7610.jpg",
+      "description": "A gourmet 3 course vegetarian meal featuring stuffed mushrooms and a cake dessert.",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Wine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal4",
+      "title": "3 course Seafood",
+      "starter": "Shrimp Cocktail",
+      "desert": "Cake",
+      "price": 49.99,
+      "labels": ["seafood"],
+      "img": "https://img.freepik.com/free-photo/shrimp-cocktail-isolated-white-background_123827-27708.jpg",
+      "description": "A luxurious 3 course seafood meal featuring shrimp cocktail and a cake dessert.",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Wine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal5",
+      "title": "3 course Pork",
+      "starter": "Prosciutto-Wrapped Asparagus",
+      "desert": "Cake",
+      "price": 39.99,
+      "labels": ["pork"],
+      "img": "https://www.theanthonykitchen.com/wp-content/uploads/2022/10/Prosciutto-Wrapped-Asparagus-4.jpg",
+      "description": "A savory 3 course pork meal featuring prosciutto-wrapped asparagus and a cake dessert.",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Wine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal6",
+      "title": "3 course Kids",
+      "starter": "Fruit Cup",
+      "desert": "Cake",
+      "price": 29.99,
+      "labels": ["kids", "breakfast"],
+      "img": "https://img.freepik.com/premium-photo/fruit-salad-isolated-white-background_759447-1651.jpg",
+      "description": "A fun and nutritious 3 course meal for kids featuring a fruit cup and a cake dessert.",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Wine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal7",
+      "title": "3 course Chicken2",
+      "starter": "Tomato Basil Bruschetta",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": ["chicken"],
+      "img": "https://img.freepik.com/premium-photo/bruschetta-with-fresh-tomato-basil-cheese-olive-isolated-white-background_183587-1215.jpg",
+      "description": "A delicious 3 course chicken meal featuring tomato basil bruschetta and a cake dessert.",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Wine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    }
+  ]
+}
