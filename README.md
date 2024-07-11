@@ -2,7 +2,7 @@
 # Allo Meals: React-based Meal Selection Web App
 # Project Overview
 
-This project is a React-based web application designed for meal selection. It includes features such as user authentication, meal filtering by tags, dynamic pricing, and integration with a backend server. The site is deployed and accessible at [https://allo-meals.netlify.app/](https://allo-meals.netlify.app/). #Please note that as it's hosted on a free service, it may take a few seconds to load initially.
+This project is a React-based web application designed for meal selection. It includes features such as user authentication, meal filtering by tags, dynamic pricing, and integration with a backend server. The site is deployed and accessible at [https://allo-meals.netlify.app/](https://allo-meals.netlify.app/). (Please note that as it's hosted on a free service, it may take a few seconds to load initially).
 
 ## Key Features
 
